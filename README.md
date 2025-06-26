@@ -117,9 +117,3 @@ Hello World
 * `mixes.txt` — generated mix file (on encoding with `--save-mixes-file`)
 
 ---
-
-## 🚨 Disclaimer
-
-This tool is **not a cryptographic algorithm** and should **not** be used for sensitive data protection. It is meant for educational, experimental, or light obfuscation purposes only.
-
----
